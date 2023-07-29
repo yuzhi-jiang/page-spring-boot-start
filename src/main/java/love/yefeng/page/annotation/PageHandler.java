@@ -1,4 +1,4 @@
-package com.yefeng.netdisk.myPageUtil.annotation;
+package love.yefeng.page.annotation;
 
 /**
  * This class is for
